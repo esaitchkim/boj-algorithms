@@ -25,3 +25,6 @@
 | [2741](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2741.py) | N 찍기         | 2024-08-10      | Bronze 5             |
 | [2753](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2753.py) | 윤년           | 2024-08-10      | Bronze 5             |
 | [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2884.py) | 알람 시계      | 2024-08-10      | Bronze 3             |
+| [2920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2920.py) | 음계           | 2024-08-10      | Bronze 2             |
+| [3052](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3052.py) | 나머지         | 2024-08-10      | Bronze 2             |
+| [8958](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/8958.py) | OX퀴즈         | 2024-08-10      | Bronze 2             |
