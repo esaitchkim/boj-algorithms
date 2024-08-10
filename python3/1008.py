@@ -1,4 +1,4 @@
-"""1001.py
+"""1008.py
 Title: A/B
 Url: https://www.acmicpc.net/problem/1008
 """
