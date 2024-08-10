@@ -1,6 +1,6 @@
 """2439.py
 Title: 별 찍기 - 2
-Url: https://www.acmicpc.net/problem/2438
+Url: https://www.acmicpc.net/problem/2439
 """
 
 N = int(input())
