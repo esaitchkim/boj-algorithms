@@ -35,3 +35,13 @@
 | [10809](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10809.py) | 알파벳 찾기    | 2024-08-11      | Bronze 2             |
 | [10818](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10818.py) | 최소, 최대     | 2024-08-11      | Bronze 3             |
 | [10869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10869.py) | 사칙연산       | 2024-08-11      | Bronze 5             |
+| [10871](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10871.py) | X보다 작은 수  | 2024-08-11      | Bronze 5             |
+| [10950](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10950.py) | A+B - 3        | 2024-08-11      | Bronze 5             |
+| [10951](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10951.py) | A+B - 4        | 2024-08-11      | Bronze 5             |
+| [10952](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10952.py) | A+B - 5        | 2024-08-11      | Bronze 5             |
+| [10998](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/10998.py) | A×B            | 2024-08-11      | Bronze 5             |
+| [11654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/11654.py) | 아스키 코드    | 2024-08-11      | Bronze 5             |
+| [11720](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/11720.py) | 숫자의 합      | 2024-08-11      | Bronze 4             |
+| [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/25083.py) | 새싹           | 2024-08-11      | Bronze 5             |
+| [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/27866.py) | 문자와 문자열  | 2024-08-11      | Bronze 5             |
+| [31403](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/31403.py) | A + B - C      | 2024-08-11      | Bronze 4             |
