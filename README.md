@@ -11,3 +11,4 @@
 | :----------------------------------------------------------------------------- | :---------- | :-------------- | :------------------- |
 | [1000](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1000.py) | A+B         | 2024-08-10      | Bronze 5             |
 | [1001](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1001.py) | A-B         | 2024-08-10      | Bronze 5             |
+| [1008](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1008.py) | A/B         | 2024-08-10      | Bronze 5             |
