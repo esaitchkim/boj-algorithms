@@ -20,3 +20,8 @@
 | [2557](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2557.py) | Hello World    | 2024-08-10      | Bronze 5             |
 | [2562](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2562.py) | 최댓값         | 2024-08-10      | Bronze 3             |
 | [2577](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2577.py) | 숫자의 개수    | 2024-08-10      | Bronze 2             |
+| [2675](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2675.py) | 문자열 반복    | 2024-08-10      | Bronze 2             |
+| [2739](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2739.py) | 구구단         | 2024-08-10      | Bronze 5             |
+| [2741](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2741.py) | N 찍기         | 2024-08-10      | Bronze 5             |
+| [2753](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2753.py) | 윤년           | 2024-08-10      | Bronze 5             |
+| [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2884.py) | 알람 시계      | 2024-08-10      | Bronze 3             |
