@@ -8,11 +8,11 @@ A, B = map(int, input().split())
 result = None
 
 if A > B:
-    result = '>'
+    result = ">"
 elif A < B:
-    result = '<'
+    result = "<"
 else:
-    result = '=='
+    result = "=="
 
 
 print(result)

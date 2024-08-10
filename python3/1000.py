@@ -5,6 +5,6 @@ Url: https://www.acmicpc.net/problem/1000
 
 A, B = map(int, input().split())
 
-result = A+B
+result = A + B
 
 print(result)

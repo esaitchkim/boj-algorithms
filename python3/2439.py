@@ -5,7 +5,7 @@ Url: https://www.acmicpc.net/problem/2439
 
 N = int(input())
 
-print_string = '*'
+print_string = "*"
 
-for i in range(1,N+1):
-    print((print_string*i).rjust(N))
+for i in range(1, N + 1):
+    print((print_string * i).rjust(N))
