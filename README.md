@@ -16,7 +16,10 @@
 | [1008](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1008.py)   | A/B                  | 2024-08-10      | Bronze 5             |
 | [1152](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1152.py)   | 단어의 개수          | 2024-08-10      | Bronze 2             |
 | [1330](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1330.py)   | 두 수 비교하기       | 2024-08-10      | Bronze 5             |
-| [2338](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2338.py)   | 긴자리 계산          | 2024-08-11      | Bronze 5             |
+| [1978](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1978.py)   | 소수 찾기            | 2024-08-11      | Bronze 2             |
+| [2231](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합               | 2024-08-11      | Bronze 2             |
+| [2292](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합               | 2024-08-11      | Bronze 2             |
+| [2338](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2292.py)   | 벌집                 | 2024-08-11      | Bronze 2             |
 | [2438](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2438.py)   | 별 찍기 - 1          | 2024-08-10      | Bronze 5             |
 | [2439](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2439.py)   | 별 찍기 - 2          | 2024-08-10      | Bronze 4             |
 | [2475](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2475.py)   | 검증수               | 2024-08-10      | Bronze 5             |
@@ -27,9 +30,11 @@
 | [2739](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2739.py)   | 구구단               | 2024-08-10      | Bronze 5             |
 | [2741](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2741.py)   | N 찍기               | 2024-08-10      | Bronze 5             |
 | [2753](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2753.py)   | 윤년                 | 2024-08-10      | Bronze 5             |
+| [2798](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2798.py)   | 블랙잭               | 2024-08-11      | Bronze 2             |
 | [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2884.py)   | 알람 시계            | 2024-08-10      | Bronze 3             |
 | [2920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2920.py)   | 음계                 | 2024-08-10      | Bronze 2             |
 | [3052](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3052.py)   | 나머지               | 2024-08-10      | Bronze 2             |
+| [4153](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4153.py)   | 직각삼각형           | 2024-08-11      | Bronze 3             |
 | [8958](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/8/8958.py)   | OX퀴즈               | 2024-08-10      | Bronze 2             |
 | [9498](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9498.py)   | 시험 성적            | 2024-08-11      | Bronze 5             |
 | [10171](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10171.py) | 고양이               | 2024-08-11      | Bronze 5             |
@@ -52,4 +57,5 @@
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY               | 2024-08-11      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열        | 2024-08-11      | Bronze 5             |
 | [30030](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30030.py) | 스위트콘 가격 구하기 | 2024-08-11      | Bronze 5             |
+| [30802](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30802.py) | 웰컴 키트            | 2024-08-11      | Bronze 3             |
 | [31403](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/1/31403.py) | A + B - C            | 2024-08-11      | Bronze 4             |
