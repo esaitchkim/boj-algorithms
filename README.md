@@ -38,7 +38,9 @@
 | [2744](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2744.py)   | 대소문자 바꾸기         | 2024-08-13      | Bronze 5             |
 | [2753](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2753.py)   | 윤년                    | 2024-08-10      | Bronze 5             |
 | [2754](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2754.py)   | 학점계산                | 2024-08-13      | Bronze 3             |
+| [2775](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2775.py)   | 부녀회장이 될테야       | 2024-08-13      | Bronze 1             |
 | [2798](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2798.py)   | 블랙잭                  | 2024-08-11      | Bronze 2             |
+| [2869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2869.py)   | 달팽이는 올라가고 싶다  | 2024-08-13      | Bronze 1             |
 | [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2884.py)   | 알람 시계               | 2024-08-10      | Bronze 3             |
 | [2920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2920.py)   | 음계                    | 2024-08-10      | Bronze 2             |
 | [3052](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3052.py)   | 나머지                  | 2024-08-10      | Bronze 2             |
@@ -62,6 +64,7 @@
 | [10950](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10950.py) | A+B - 3                 | 2024-08-11      | Bronze 5             |
 | [10951](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10951.py) | A+B - 4                 | 2024-08-11      | Bronze 5             |
 | [10952](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10952.py) | A+B - 5                 | 2024-08-11      | Bronze 5             |
+| [10989](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10989.py) | 수 정렬하기 3           | 2024-08-13      | Bronze 1             |
 | [10998](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10998.py) | A×B                     | 2024-08-11      | Bronze 5             |
 | [11382](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11382.py) | 꼬마 정민               | 2024-08-12      | Bronze 5             |
 | [11654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11654.py) | 아스키 코드             | 2024-08-11      | Bronze 5             |
