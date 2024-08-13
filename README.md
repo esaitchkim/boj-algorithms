@@ -22,7 +22,7 @@
 | [2292](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합               | 2024-08-11      | Bronze 2             |
 | [2338](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2292.py)   | 벌집                 | 2024-08-11      | Bronze 2             |
 | [2420](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2420.py)   | 사파리월드           | 2024-08-12      | Bronze 5             |
-| [2438](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2438.py)   | 별 찍기 - 1          | 2024-08-10      | Bronze 5             |
+| [2438](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2438.py)   | 별 찍기 - 1          | 2024-08-10      | Bronze 3             |
 | [2439](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2439.py)   | 별 찍기 - 2          | 2024-08-10      | Bronze 4             |
 | [2475](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2475.py)   | 검증수               | 2024-08-10      | Bronze 5             |
 | [2557](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2557.py)   | Hello World          | 2024-08-10      | Bronze 5             |
