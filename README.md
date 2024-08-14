@@ -9,6 +9,9 @@
 
 ### Bronze
 
+<details>
+<summary>Problem List</summary>
+
 | **No**                                                                               | **Problem**             | **Solved Date** | **Difficulty level** |
 | :----------------------------------------------------------------------------------- | :---------------------- | :-------------- | :------------------- |
 | [1000](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1000.py)   | A+B                     | 2024-08-10      | Bronze 5             |
@@ -66,6 +69,7 @@
 | [10952](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10952.py) | A+B - 5                 | 2024-08-11      | Bronze 5             |
 | [10989](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10989.py) | 수 정렬하기 3           | 2024-08-13      | Bronze 1             |
 | [10998](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10998.py) | A×B                     | 2024-08-11      | Bronze 5             |
+| [11050](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11050.py) | 이항 계수 1             | 2024-08-14      | Bronze 1             |
 | [11382](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11382.py) | 꼬마 정민               | 2024-08-12      | Bronze 5             |
 | [11654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11654.py) | 아스키 코드             | 2024-08-11      | Bronze 5             |
 | [11718](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11718.py) | 그대로 출력하기         | 2024-08-13      | Bronze 3             |
@@ -79,6 +83,27 @@
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                    | 2024-08-11      | Bronze 5             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                  | 2024-08-11      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열           | 2024-08-11      | Bronze 5             |
+| [28702](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28702.py) | FizzBuzz                | 2024-08-14      | Bronze 1             |
 | [30030](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30030.py) | 스위트콘 가격 구하기    | 2024-08-11      | Bronze 5             |
 | [30802](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30802.py) | 웰컴 키트               | 2024-08-11      | Bronze 3             |
 | [31403](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/1/31403.py) | A + B - C               | 2024-08-11      | Bronze 4             |
+
+</details>
+
+### Silver
+
+<details>
+<summary>Problem List</summary>
+
+| **No**                                                                               | **Problem**       | **Solved Date** | **Difficulty level** |
+| :----------------------------------------------------------------------------------- | :---------------- | :-------------- | :------------------- |
+| [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬         | 2024-08-14      | Silver 5             |
+| [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌       | 2024-08-14      | Silver 5             |
+| [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수 | 2024-08-14      | Silver 5             |
+| [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2     | 2024-08-14      | Silver 5             |
+| [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치              | 2024-08-14      | Silver 5             |
+| [10814](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10814.py) | 나이순 정렬       | 2024-08-14      | Silver 5             |
+| [11650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11650.py) | 좌표 정렬하기     | 2024-08-14      | Silver 5             |
+| [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2   | 2024-08-14      | Silver 5             |
+
+</details>
