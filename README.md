@@ -115,8 +115,14 @@
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2            | 2024-08-14      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/4949.py)   | The Balance of the World | 2024-08-15      | Silver 4             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                     | 2024-08-14      | Silver 5             |
+| [9012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9012.py)   | Parenthesis              | 2024-08-16      | Silver 4             |
+| [10773](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10773.py) | Zero That Out            | 2024-08-16      | Silver 4             |
 | [10814](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10814.py) | 나이순 정렬              | 2024-08-14      | Silver 5             |
+| [10816](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10816.py) | 숫자 카드 2              | 2024-08-16      | Silver 4             |
+| [10828](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10828.py) | 스택                     | 2024-08-16      | Silver 4             |
+| [10845](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10845.py) | 큐                       | 2024-08-16      | Silver 4             |
 | [11650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11650.py) | 좌표 정렬하기            | 2024-08-14      | Silver 5             |
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2          | 2024-08-14      | Silver 5             |
+| [11866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11866.py) | 요세푸스 문제 0          | 2024-08-16      | Silver 4             |
 
 </details>
