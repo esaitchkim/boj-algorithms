@@ -108,9 +108,13 @@
 | [1018](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1018.py)   | 체스판 다시 칠하기       | 2024-08-14      | Silver 4             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                | 2024-08-14      | Silver 5             |
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌              | 2024-08-14      | Silver 5             |
+| [1654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1654.py)   | 랜선 자르기              | 2024-08-17      | Silver 2             |
 | [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수        | 2024-08-14      | Silver 5             |
+| [1874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1874.py)   | 스택 수열                | 2024-08-17      | Silver 2             |
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                  | 2024-08-14      | Silver 4             |
 | [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기              | 2024-08-17      | Silver 3             |
+| [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue            | 2024-08-17      | Silver 3             |
+| [2108](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2108.py)   | 통계학                   | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                    | 2024-08-14      | Silver 4             |
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                    | 2024-08-15      | Silver 4             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2            | 2024-08-14      | Silver 5             |
