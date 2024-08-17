@@ -110,6 +110,7 @@
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌              | 2024-08-14      | Silver 5             |
 | [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수        | 2024-08-14      | Silver 5             |
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                  | 2024-08-14      | Silver 4             |
+| [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기              | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                    | 2024-08-14      | Silver 4             |
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                    | 2024-08-15      | Silver 4             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2            | 2024-08-14      | Silver 5             |
@@ -124,5 +125,6 @@
 | [11650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11650.py) | 좌표 정렬하기            | 2024-08-14      | Silver 5             |
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2          | 2024-08-14      | Silver 5             |
 | [11866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11866.py) | 요세푸스 문제 0          | 2024-08-16      | Silver 4             |
+| [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                | 2024-08-17      | Silver 4             |
 
 </details>
