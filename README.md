@@ -106,10 +106,13 @@
 | **No**                                                                               | **Problem**                 | **Solved Date** | **Difficulty level** |
 | :----------------------------------------------------------------------------------- | :-------------------------- | :-------------- | :------------------- |
 | [1003](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1003.py)   | 피보나치 함수               | 2024-08-19      | Silver 3             |
+| [1012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1012.py)   | 유기농 배추                 | 2024-08-20      | Silver 2             |
 | [1018](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1018.py)   | 체스판 다시 칠하기          | 2024-08-14      | Silver 4             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                   | 2024-08-14      | Silver 5             |
+| [1260](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1260.py)   | DFS와 BFS                   | 2024-08-20      | Silver 2             |
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌                 | 2024-08-14      | Silver 5             |
 | [1463](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1463.py)   | 1로 만들기                  | 2024-08-14      | Silver 3             |
+| [1541](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1541.py)   | 잃어버린 괄호               | 2024-08-20      | Silver 2             |
 | [1620](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1620.py)   | 나는야 포켓몬 마스터 이다솜 | 2024-08-18      | Silver 4             |
 | [1654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1654.py)   | 랜선 자르기                 | 2024-08-17      | Silver 2             |
 | [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수           | 2024-08-14      | Silver 5             |
@@ -141,8 +144,11 @@
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2             | 2024-08-14      | Silver 5             |
 | [11659](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11659.py) | 구간 합 구하기 4            | 2024-08-20      | Silver 3             |
 | [11723](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11723.py) | 집합                        | 2024-08-18      | Silver 5             |
+| [11726](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11726.py) | 2×n 타일링                  | 2024-08-20      | Silver 3             |
+| [11727](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11727.py) | 2×n 타일링 2                | 2024-08-20      | Silver 3             |
 | [11866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11866.py) | 요세푸스 문제 0             | 2024-08-16      | Silver 4             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
+| [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
 
 </details>
