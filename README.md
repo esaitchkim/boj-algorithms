@@ -147,6 +147,7 @@
 | [10828](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10828.py) | 스택                        | 2024-08-16      | Silver 4             |
 | [10845](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10845.py) | 큐                          | 2024-08-16      | Silver 4             |
 | [11047](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11047.py) | 동전 0                      | 2024-08-18      | Silver 4             |
+| [11053](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11053.py) | 가장 긴 증가하는 부분 수열  | 2024-08-23      | Silver 2             |
 | [11399](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11399.py) | ATM                         | 2024-08-18      | Silver 4             |
 | [11650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11650.py) | 좌표 정렬하기               | 2024-08-14      | Silver 5             |
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2             | 2024-08-14      | Silver 5             |
@@ -157,6 +158,7 @@
 | [11866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11866.py) | 요세푸스 문제 0             | 2024-08-16      | Silver 4             |
 | [15650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15650.py) | N과 M (2)                   | 2024-08-22      | Silver 3             |
 | [15652](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15652.py) | N과 M (4)                   | 2024-08-22      | Silver 3             |
+| [15654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15652.py) | N과 M (5)                   | 2024-08-23      | Silver 3             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
