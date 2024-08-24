@@ -153,6 +153,7 @@
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2             | 2024-08-14      | Silver 5             |
 | [11659](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11659.py) | 구간 합 구하기 4            | 2024-08-20      | Silver 3             |
 | [11723](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11723.py) | 집합                        | 2024-08-18      | Silver 5             |
+| [11725](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11725.py) | 트리의 부모 찾기            | 2024-08-24      | Silver 2             |
 | [11726](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11726.py) | 2×n 타일링                  | 2024-08-20      | Silver 3             |
 | [11727](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11727.py) | 2×n 타일링 2                | 2024-08-20      | Silver 3             |
 | [11866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11866.py) | 요세푸스 문제 0             | 2024-08-16      | Silver 4             |
