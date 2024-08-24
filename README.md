@@ -160,6 +160,7 @@
 | [15650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15650.py) | N과 M (2)                   | 2024-08-22      | Silver 3             |
 | [15652](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15652.py) | N과 M (4)                   | 2024-08-22      | Silver 3             |
 | [15654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15652.py) | N과 M (5)                   | 2024-08-23      | Silver 3             |
+| [15663](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15663.py) | N과 M (9)                   | 2024-08-24      | Silver 2             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
