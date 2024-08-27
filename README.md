@@ -116,6 +116,7 @@
 | [1003](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1003.py)   | 피보나치 함수               | 2024-08-19      | Silver 3             |
 | [1012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1012.py)   | 유기농 배추                 | 2024-08-20      | Silver 2             |
 | [1018](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1018.py)   | 체스판 다시 칠하기          | 2024-08-14      | Silver 4             |
+| [1149](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1149.py)   | RGB거리                     | 2024-08-27      | Silver 1             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                   | 2024-08-14      | Silver 5             |
 | [1260](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1260.py)   | DFS와 BFS                   | 2024-08-20      | Silver 2             |
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌                 | 2024-08-14      | Silver 5             |
