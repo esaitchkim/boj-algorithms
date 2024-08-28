@@ -123,6 +123,7 @@
 | [1463](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1463.py)   | 1로 만들기                  | 2024-08-14      | Silver 3             |
 | [1541](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1541.py)   | 잃어버린 괄호               | 2024-08-20      | Silver 2             |
 | [1620](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1620.py)   | 나는야 포켓몬 마스터 이다솜 | 2024-08-18      | Silver 4             |
+| [1629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1629.py)   | 곱셈                        | 2024-08-28      | Silver 1             |
 | [1654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1654.py)   | 랜선 자르기                 | 2024-08-17      | Silver 2             |
 | [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수           | 2024-08-14      | Silver 5             |
 | [1764](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1764.py)   | 듣보잡                      | 2024-08-18      | Silver 4             |
