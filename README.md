@@ -132,6 +132,7 @@
 | [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기                 | 2024-08-17      | Silver 3             |
 | [1932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1932.py)   | The Triangle                | 2024-08-29      | Silver 1             |
 | [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue               | 2024-08-17      | Silver 3             |
+| [1991](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1991.py)   | 트리 순회                   | 2024-08-30      | Silver 1             |
 | [2108](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2108.py)   | 통계학                      | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                       | 2024-08-14      | Silver 4             |
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                       | 2024-08-15      | Silver 4             |
