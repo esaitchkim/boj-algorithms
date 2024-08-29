@@ -130,6 +130,7 @@
 | [1874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1874.py)   | 스택 수열                   | 2024-08-17      | Silver 2             |
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                     | 2024-08-14      | Silver 4             |
 | [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기                 | 2024-08-17      | Silver 3             |
+| [1932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1932.py)   | The Triangle                | 2024-08-29      | Silver 1             |
 | [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue               | 2024-08-17      | Silver 3             |
 | [2108](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2108.py)   | 통계학                      | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                       | 2024-08-14      | Silver 4             |
