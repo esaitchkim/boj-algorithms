@@ -26,6 +26,7 @@
 | [2231](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합                         | 2024-08-11      | Bronze 2             |
 | [2292](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합                         | 2024-08-11      | Bronze 2             |
 | [2338](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2292.py)   | 벌집                           | 2024-08-11      | Bronze 2             |
+| [2393](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2393.py)   | Rook                           | 2024-08-31      | Bronze 5             |
 | [2420](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2420.py)   | 사파리월드                     | 2024-08-12      | Bronze 5             |
 | [2438](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2438.py)   | 별 찍기 - 1                    | 2024-08-10      | Bronze 3             |
 | [2439](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2439.py)   | 별 찍기 - 2                    | 2024-08-10      | Bronze 4             |
@@ -87,6 +88,7 @@
 | [14681](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14681.py) | 사분면 고르기                  | 2024-08-12      | Bronze 5             |
 | [15232](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15232.py) | Rectangles                     | 2024-08-15      | Bronze 5             |
 | [15552](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15552.py) | 빠른 A+B                       | 2024-08-12      | Bronze 4             |
+| [15733](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15733.py) | 나는 누구인가                  | 2024-08-31      | Bronze 5             |
 | [15740](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15740.py) | A+B - 9                        | 2024-08-15      | Bronze 5             |
 | [15829](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15829.py) | Hashing                        | 2024-08-11      | Bronze 2             |
 | [15964](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15964.py) | 이상한 기호                    | 2024-08-13      | Bronze 5             |
@@ -94,6 +96,7 @@
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
+| [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열                  | 2024-08-11      | Bronze 5             |
 | [28097](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28097.py) | 모범생 포닉스                  | 2024-08-21      | Bronze 4             |
@@ -101,8 +104,10 @@
 | [28702](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28702.py) | FizzBuzz                       | 2024-08-14      | Bronze 1             |
 | [29863](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/9/29863.py) | Arno's Sleep Schedule          | 2024-08-21      | Bronze 5             |
 | [30030](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30030.py) | 스위트콘 가격 구하기           | 2024-08-11      | Bronze 5             |
+| [30328](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30328.py) | Java Warriors                  | 2024-08-31      | Bronze 5             |
 | [30802](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30802.py) | 웰컴 키트                      | 2024-08-11      | Bronze 3             |
 | [31403](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/1/31403.py) | A + B - C                      | 2024-08-11      | Bronze 4             |
+| [31450](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/1/31450.py) | Everyone is a winner           | 2024-08-31      | Bronze 5             |
 
 </details>
 
