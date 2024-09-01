@@ -55,6 +55,7 @@
 | [5358](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5358.py)   | Football Team                  | 2024-08-21      | Bronze 4             |
 | [5597](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5597.py)   | 과제 안 내신 분..?             | 2024-08-12      | Bronze 3             |
 | [7287](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7287.py)   | 등록                           | 2024-08-12      | Bronze 5             |
+| [8932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/8/8932.py)   | Heptathlon                     | 2024-09-01      | Bronze 3             |
 | [8958](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/8/8958.py)   | OX퀴즈                         | 2024-08-10      | Bronze 2             |
 | [9086](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9086.py)   | 문자열                         | 2024-08-13      | Bronze 5             |
 | [9498](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9498.py)   | 시험 성적                      | 2024-08-11      | Bronze 5             |
@@ -71,6 +72,7 @@
 | [10869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10869.py) | 사칙연산                       | 2024-08-11      | Bronze 5             |
 | [10871](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10871.py) | X보다 작은 수                  | 2024-08-11      | Bronze 5             |
 | [10872](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10872.py) | 팩토리얼                       | 2024-08-12      | Bronze 3             |
+| [10874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10874.py) | Dr. L's exam                   | 2024-09-01      | Bronze 3             |
 | [10926](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10926.py) | 10926                          | 2024-08-21      | Bronze 5             |
 | [10950](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10950.py) | A+B - 3                        | 2024-08-11      | Bronze 5             |
 | [10951](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10951.py) | A+B - 4                        | 2024-08-11      | Bronze 5             |
@@ -94,6 +96,7 @@
 | [15964](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15964.py) | 이상한 기호                    | 2024-08-13      | Bronze 5             |
 | [17010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17010.py) | Time to Decompress             | 2024-08-11      | Bronze 4             |
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
+| [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
