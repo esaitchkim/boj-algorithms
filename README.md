@@ -188,9 +188,13 @@
 <details>
 <summary>Problem List</summary>
 
-| **No**                                                                             | **Problem**     | **Solved Date** | **Difficulty level** |
-| :--------------------------------------------------------------------------------- | :-------------- | :-------------- | :------------------- |
-| [1916](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1916.py) | 최소비용 구하기 | 2024-09-02      | Gold 5               |
-| [2096](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/2096.py) | 내려가기        | 2024-09-02      | Gold 5               |
+| **No**                                                                               | **Problem**     | **Solved Date** | **Difficulty level** |
+| :----------------------------------------------------------------------------------- | :-------------- | :-------------- | :------------------- |
+| [1916](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1916.py)   | 최소비용 구하기 | 2024-09-02      | Gold 5               |
+| [2096](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2096.py)   | 내려가기        | 2024-09-02      | Gold 5               |
+| [9251](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9251.py)   | LCS             | 2024-09-03      | Gold 5               |
+| [12865](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/2/12865.py) | 평범한 배낭     | 2024-09-03      | Gold 5               |
+| [13549](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13549.py) | 숨바꼭질 3      | 2024-09-03      | Gold 5               |
+| [15686](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15686.py) | 치킨 배달       | 2024-09-03      | Gold 5               |
 
 </details>
