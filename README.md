@@ -111,6 +111,7 @@
 | [28702](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28702.py) | FizzBuzz                       | 2024-08-14      | Bronze 1             |
 | [29863](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/9/29863.py) | Arno's Sleep Schedule          | 2024-08-21      | Bronze 5             |
 | [30030](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30030.py) | 스위트콘 가격 구하기           | 2024-08-11      | Bronze 5             |
+| [30031](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30031.py) | 지폐 세기                      | 2024-09-05      | Bronze 4             |
 | [30328](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30328.py) | Java Warriors                  | 2024-08-31      | Bronze 5             |
 | [30802](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30802.py) | 웰컴 키트                      | 2024-08-11      | Bronze 3             |
 | [31403](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/1/31403.py) | A + B - C                      | 2024-08-11      | Bronze 4             |
