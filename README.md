@@ -48,6 +48,7 @@
 | [2869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2869.py)   | 달팽이는 올라가고 싶다         | 2024-08-13      | Bronze 1             |
 | [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2884.py)   | 알람 시계                      | 2024-08-10      | Bronze 3             |
 | [2920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2920.py)   | 음계                           | 2024-08-10      | Bronze 2             |
+| [3009](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3009.py)   | CETVRTA                        | 2024-09-06      | Bronze 3             |
 | [3052](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3052.py)   | 나머지                         | 2024-08-10      | Bronze 2             |
 | [4101](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4101.py)   | Which is Greater?              | 2024-09-04      | Bronze 5             |
 | [4153](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4153.py)   | 직각삼각형                     | 2024-08-11      | Bronze 3             |
@@ -55,6 +56,7 @@
 | [4766](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4766.py)   | A Simple Question of Chemistry | 2024-08-15      | Bronze 3             |
 | [5358](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5358.py)   | Football Team                  | 2024-08-21      | Bronze 4             |
 | [5597](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5597.py)   | 과제 안 내신 분..?             | 2024-08-12      | Bronze 3             |
+| [6679](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/6679.py)   | Specialized Four-Digit Numbers | 2024-09-06      | Bronze 2             |
 | [7287](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7287.py)   | 등록                           | 2024-08-12      | Bronze 5             |
 | [8932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/8/8932.py)   | Heptathlon                     | 2024-09-01      | Bronze 3             |
 | [8958](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/8/8958.py)   | OX퀴즈                         | 2024-08-10      | Bronze 2             |
@@ -103,6 +105,7 @@
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
+| [25629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25629.py) | 홀짝 수열                      | 2024-09-06      | Bronze 3             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
 | [27389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27389.py) | Metronome                      | 2024-09-04      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열                  | 2024-08-11      | Bronze 5             |
