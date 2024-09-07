@@ -154,6 +154,7 @@
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                       | 2024-08-15      | Silver 4             |
 | [2579](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2579.py)   | 계단 오르기                 | 2024-08-19      | Silver 3             |
 | [2606](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2606.py)   | 바이러스                    | 2024-08-19      | Silver 3             |
+| [2630](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2630.py)   | 색종이 만들기               | 2024-09-07      | Silver 2             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2               | 2024-08-14      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
