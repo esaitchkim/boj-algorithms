@@ -19,8 +19,5 @@ for i in range(N):
     res += points[i][0] * points[i + 1][1]
     res -= points[i][1] * points[i + 1][0]
 
-tmp = abs(res) / 2
-print(tmp)
-
 res = round(abs(res) / 2, 1)
 print(res)

@@ -145,6 +145,7 @@
 | [1764](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1764.py)   | 듣보잡                      | 2024-08-18      | Silver 4             |
 | [1874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1874.py)   | 스택 수열                   | 2024-08-17      | Silver 2             |
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                     | 2024-08-14      | Silver 4             |
+| [1927](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1927.py)   | 최소 힙                     | 2024-09-09      | Silver 2             |
 | [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기                 | 2024-08-17      | Silver 3             |
 | [1932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1932.py)   | The Triangle                | 2024-08-29      | Silver 1             |
 | [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue               | 2024-08-17      | Silver 3             |
@@ -202,6 +203,7 @@
 | [1916](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1916.py)   | 최소비용 구하기 | 2024-09-02      | Gold 5               |
 | [2096](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2096.py)   | 내려가기        | 2024-09-02      | Gold 5               |
 | [2166](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2166.py)   | 다각형의 면적   | 2024-09-08      | Gold 5               |
+| [2467](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2467.py)   | 용액            | 2024-09-09      | Gold 5               |
 | [9251](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9251.py)   | LCS             | 2024-09-03      | Gold 5               |
 | [12865](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/2/12865.py) | 평범한 배낭     | 2024-09-03      | Gold 5               |
 | [13549](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13549.py) | 숨바꼭질 3      | 2024-09-03      | Gold 5               |
