@@ -41,6 +41,7 @@
 | [2741](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2741.py)   | N 찍기                         | 2024-08-10      | Bronze 5             |
 | [2743](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2743.py)   | 단어 길이 재기                 | 2024-08-13      | Bronze 5             |
 | [2744](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2744.py)   | 대소문자 바꾸기                | 2024-08-13      | Bronze 5             |
+| [2750](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2750.py)   | 수 정렬하기                    | 2024-09-10      | Bronze 2             |
 | [2753](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2753.py)   | 윤년                           | 2024-08-10      | Bronze 5             |
 | [2754](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2754.py)   | 학점계산                       | 2024-08-13      | Bronze 3             |
 | [2775](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2775.py)   | 부녀회장이 될테야              | 2024-08-13      | Bronze 1             |
@@ -70,6 +71,7 @@
 | [10699](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10699.py) | 오늘 날짜                      | 2024-08-12      | Bronze 5             |
 | [10807](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10807.py) | 개수 세기                      | 2024-08-12      | Bronze 5             |
 | [10809](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10809.py) | 알파벳 찾기                    | 2024-08-11      | Bronze 2             |
+| [10817](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10817.py) | 세 수                          | 2024-09-10      | Bronze 3             |
 | [10818](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10818.py) | 최소, 최대                     | 2024-08-11      | Bronze 3             |
 | [10823](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10823.py) | 네 수                          | 2024-08-15      | Bronze 3             |
 | [10869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10869.py) | 사칙연산                       | 2024-08-11      | Bronze 5             |
@@ -135,6 +137,7 @@
 | [1149](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1149.py)   | RGB거리                     | 2024-08-27      | Silver 1             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                   | 2024-08-14      | Silver 5             |
 | [1260](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1260.py)   | DFS와 BFS                   | 2024-08-20      | Silver 2             |
+| [1427](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1427.py)   | 소트인사이드                | 2024-09-10      | Silver 5             |
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌                 | 2024-08-14      | Silver 5             |
 | [1463](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1463.py)   | 1로 만들기                  | 2024-08-14      | Silver 3             |
 | [1541](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1541.py)   | 잃어버린 괄호               | 2024-08-20      | Silver 2             |
@@ -147,6 +150,7 @@
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                     | 2024-08-14      | Silver 4             |
 | [1927](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1927.py)   | 최소 힙                     | 2024-09-09      | Silver 2             |
 | [1929](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1929.py)   | 소수 구하기                 | 2024-08-17      | Silver 3             |
+| [1931](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1931.py)   | 회의실 배정                 | 2024-09-10      | Silver 1             |
 | [1932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1932.py)   | The Triangle                | 2024-08-29      | Silver 1             |
 | [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue               | 2024-08-17      | Silver 3             |
 | [1991](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1991.py)   | 트리 순회                   | 2024-08-30      | Silver 1             |
