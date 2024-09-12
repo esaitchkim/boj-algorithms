@@ -23,6 +23,7 @@
 | [1330](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1330.py)   | 두 수 비교하기                 | 2024-08-10      | Bronze 5             |
 | [1371](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1371.py)   | 가장 많은 글자                 | 2024-08-21      | Bronze 2             |
 | [1546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1546.py)   | 평균                           | 2024-08-13      | Bronze 1             |
+| [1934](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1934.py)   | 최소공배수                     | 2024-09-12      | Bronze 1             |
 | [1978](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1978.py)   | 소수 찾기                      | 2024-08-11      | Bronze 2             |
 | [2010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2010.py)   | Electrical Outlets             | 2024-09-11      | Bronze 3             |
 | [2231](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2231.py)   | 분해합                         | 2024-08-11      | Bronze 2             |
@@ -72,6 +73,7 @@
 | [10250](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10250.py) | ACM 호텔                       | 2024-08-11      | Bronze 3             |
 | [10409](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10409.py) | 서버                           | 2024-08-11      | Bronze 3             |
 | [10699](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10699.py) | 오늘 날짜                      | 2024-08-12      | Bronze 5             |
+| [10804](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10804.py) | 카드 역배치                    | 2024-09-12      | Bronze 2             |
 | [10807](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10807.py) | 개수 세기                      | 2024-08-12      | Bronze 5             |
 | [10809](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10809.py) | 알파벳 찾기                    | 2024-08-11      | Bronze 2             |
 | [10817](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10817.py) | 세 수                          | 2024-09-10      | Bronze 3             |
@@ -109,6 +111,7 @@
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
+| [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
@@ -218,6 +221,7 @@
 | [2166](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2166.py)   | 다각형의 면적   | 2024-09-08      | Gold 5               |
 | [2467](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2467.py)   | 용액            | 2024-09-09      | Gold 5               |
 | [9251](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9251.py)   | LCS             | 2024-09-03      | Gold 5               |
+| [11758](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11758.py) | CCW             | 2024-09-12      | Gold 5               |
 | [12865](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/2/12865.py) | 평범한 배낭     | 2024-09-03      | Gold 5               |
 | [13549](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13549.py) | 숨바꼭질 3      | 2024-09-03      | Gold 5               |
 | [15686](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15686.py) | 치킨 배달       | 2024-09-03      | Gold 5               |
