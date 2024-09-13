@@ -157,6 +157,7 @@
 | [1654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1654.py)   | 랜선 자르기                 | 2024-08-17      | Silver 2             |
 | [1676](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1676.py)   | 팩토리얼 0의 개수           | 2024-08-14      | Silver 5             |
 | [1764](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1764.py)   | 듣보잡                      | 2024-08-18      | Silver 4             |
+| [1789](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1789.py)   | 수들의 합                   | 2024-09-13      | Silver 5             |
 | [1874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1874.py)   | 스택 수열                   | 2024-08-17      | Silver 2             |
 | [1920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1920.py)   | 수 찾기                     | 2024-08-14      | Silver 4             |
 | [1927](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1927.py)   | 최소 힙                     | 2024-09-09      | Silver 2             |
