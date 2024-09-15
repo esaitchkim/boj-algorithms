@@ -213,6 +213,7 @@
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
+| [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
 
 </details>
 
