@@ -179,6 +179,7 @@
 | [2630](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2630.py)   | 색종이 만들기               | 2024-09-07      | Silver 2             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2               | 2024-08-14      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
+| [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers            | 2024-09-16      | Silver 2             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
 | [9012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9012.py)   | Parenthesis                 | 2024-08-16      | Silver 4             |
 | [9095](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9095.py)   | Adding 1s, 2s, and 3s       | 2024-08-19      | Silver 3             |
