@@ -210,10 +210,12 @@
 | [15654](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15652.py) | N과 M (5)                   | 2024-08-23      | Silver 3             |
 | [15663](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15663.py) | N과 M (9)                   | 2024-08-24      | Silver 2             |
 | [15666](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15666.py) | N과 M (12)                  | 2024-08-25      | Silver 2             |
+| [15803](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15803.py) | PLAYERJINAH’S BOTTLEGROUNDS | 2024-09-17      | Silver 5             |
 | [16953](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16953.py) | A → B                       | 2024-08-26      | Silver 2             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
+| [18221](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18221.py) | 교수님 저는 취업할래요      | 2024-09-17      | Silver 5             |
 | [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
 
 </details>
