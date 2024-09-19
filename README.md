@@ -98,11 +98,14 @@
 | [11942](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11942.py) | 고려대는 사랑입니다            | 2024-08-11      | Bronze 5             |
 | [13227](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13227.py) | 큰 수 곱셈                     | 2024-08-21      | Bronze 5             |
 | [14038](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14038.py) | Tournament Selection           | 2024-08-15      | Bronze 4             |
+| [14209](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14209.py) | Bridž                          | 2024-08-18      | Bronze 3             |
 | [14681](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14681.py) | 사분면 고르기                  | 2024-08-12      | Bronze 5             |
+| [14924](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14924.py) | 폰 노이만과 파리               | 2024-09-18      | Bronze 4             |
 | [15232](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15232.py) | Rectangles                     | 2024-08-15      | Bronze 5             |
 | [15552](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15552.py) | 빠른 A+B                       | 2024-08-12      | Bronze 4             |
 | [15733](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15733.py) | 나는 누구인가                  | 2024-08-31      | Bronze 5             |
 | [15740](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15740.py) | A+B - 9                        | 2024-08-15      | Bronze 5             |
+| [15818](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15818.py) | 오버플로우와 모듈러            | 2024-09-18      | Bronze 4             |
 | [15829](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15829.py) | Hashing                        | 2024-08-11      | Bronze 2             |
 | [15962](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15962.py) | 새로운 시작                    | 2024-09-11      | Bronze 5             |
 | [15964](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15964.py) | 이상한 기호                    | 2024-08-13      | Bronze 5             |
@@ -111,11 +114,14 @@
 | [17010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17010.py) | Time to Decompress             | 2024-08-11      | Bronze 4             |
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
+| [17874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17874.py) | Piece of Cake!                 | 2024-09-18      | Bronze 4             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
+| [21612](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21612.py) | Boiling Water                  | 2024-09-18      | Bronze 4             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
+| [25495](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25495.py) | 에어팟                         | 2024-09-19      | Bronze 2             |
 | [25629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25629.py) | 홀짝 수열                      | 2024-09-06      | Bronze 3             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
 | [26546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26546.py) | Reverse                        | 2024-09-11      | Bronze 4             |
@@ -178,6 +184,7 @@
 | [2606](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2606.py)   | 바이러스                    | 2024-08-19      | Silver 3             |
 | [2630](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2630.py)   | 색종이 만들기               | 2024-09-07      | Silver 2             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2               | 2024-08-14      | Silver 5             |
+| [3063](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3063.py)   | 게시판                      | 2024-09-18      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
 | [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers            | 2024-09-16      | Silver 2             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
@@ -213,6 +220,7 @@
 | [15803](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15803.py) | PLAYERJINAH’S BOTTLEGROUNDS | 2024-09-17      | Silver 5             |
 | [16953](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16953.py) | A → B                       | 2024-08-26      | Silver 2             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
+| [17286](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17286.py) | 유미                        | 2024-09-18      | Silver 5             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
 | [18221](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18221.py) | 교수님 저는 취업할래요      | 2024-09-17      | Silver 5             |
