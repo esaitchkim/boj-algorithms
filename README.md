@@ -49,6 +49,7 @@
 | [2754](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2754.py)   | 학점계산                       | 2024-08-13      | Bronze 3             |
 | [2775](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2775.py)   | 부녀회장이 될테야              | 2024-08-13      | Bronze 1             |
 | [2798](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2798.py)   | 블랙잭                         | 2024-08-11      | Bronze 2             |
+| [2851](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2851.py)   | GLJIVE                         | 2024-09-20      | Bronze 1             |
 | [2869](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2869.py)   | 달팽이는 올라가고 싶다         | 2024-08-13      | Bronze 1             |
 | [2884](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2884.py)   | 알람 시계                      | 2024-08-10      | Bronze 3             |
 | [2920](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2920.py)   | 음계                           | 2024-08-10      | Bronze 2             |
@@ -185,6 +186,7 @@
 | [2630](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2630.py)   | 색종이 만들기               | 2024-09-07      | Silver 2             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2               | 2024-08-14      | Silver 5             |
 | [3063](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3063.py)   | 게시판                      | 2024-09-18      | Silver 5             |
+| [4383](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4383.py)   | Jolly Jumpers               | 2024-09-20      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
 | [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers            | 2024-09-16      | Silver 2             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
