@@ -157,7 +157,8 @@
 | [1149](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1149.py)   | RGB거리                     | 2024-08-27      | Silver 1             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                   | 2024-08-14      | Silver 5             |
 | [1260](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1260.py)   | DFS와 BFS                   | 2024-08-20      | Silver 2             |
-| [1343](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/134.py)    | 폴리오미노                  | 2024-09-14      | Silver 5             |
+| [1343](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1343.py)   | 폴리오미노                  | 2024-09-14      | Silver 5             |
+| [1388](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1388.py)   | 바닥 장식                   | 2024-09-21      | Silver 4             |
 | [1427](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1427.py)   | 소트인사이드                | 2024-09-10      | Silver 5             |
 | [1436](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1436.py)   | 영화감독 숌                 | 2024-08-14      | Silver 5             |
 | [1439](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1439.py)   | 뒤집기                      | 2024-09-14      | Silver 5             |
@@ -227,6 +228,7 @@
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
 | [18221](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18221.py) | 교수님 저는 취업할래요      | 2024-09-17      | Silver 5             |
 | [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
+| [26876](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26876.py) | New Time                    | 2024-09-21      | Silver 5             |
 
 </details>
 
