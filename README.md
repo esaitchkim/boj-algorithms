@@ -157,6 +157,7 @@
 | [1149](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1149.py)   | RGB거리                     | 2024-08-27      | Silver 1             |
 | [1181](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1181.py)   | 단어 정렬                   | 2024-08-14      | Silver 5             |
 | [1260](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1260.py)   | DFS와 BFS                   | 2024-08-20      | Silver 2             |
+| [1316](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1316.py)   | 그룹 단어 체커              | 2024-09-22      | Silver 5             |
 | [1343](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1343.py)   | 폴리오미노                  | 2024-09-14      | Silver 5             |
 | [1388](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1388.py)   | 바닥 장식                   | 2024-09-21      | Silver 4             |
 | [1427](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1427.py)   | 소트인사이드                | 2024-09-10      | Silver 5             |
@@ -190,6 +191,7 @@
 | [4383](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4383.py)   | Jolly Jumpers               | 2024-09-20      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
 | [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers            | 2024-09-16      | Silver 2             |
+| [6186](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6186.py)   | Best Grass                  | 2024-09-22      | Silver 5             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
 | [9012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9012.py)   | Parenthesis                 | 2024-08-16      | Silver 4             |
 | [9095](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9095.py)   | Adding 1s, 2s, and 3s       | 2024-08-19      | Silver 3             |
