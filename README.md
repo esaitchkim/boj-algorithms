@@ -223,6 +223,7 @@
 | [15663](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15663.py) | N과 M (9)                   | 2024-08-24      | Silver 2             |
 | [15666](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15666.py) | N과 M (12)                  | 2024-08-25      | Silver 2             |
 | [15803](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15803.py) | PLAYERJINAH’S BOTTLEGROUNDS | 2024-09-17      | Silver 5             |
+| [16435](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16435.py) | 스네이크버드                | 2024-09-23      | Silver 5             |
 | [16953](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16953.py) | A → B                       | 2024-08-26      | Silver 2             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기               | 2024-08-19      | Silver 4             |
 | [17286](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17286.py) | 유미                        | 2024-09-18      | Silver 5             |
