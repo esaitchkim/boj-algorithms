@@ -60,6 +60,7 @@
 | [4470](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4470.py)   | Number the lines               | 2024-08-21      | Bronze 4             |
 | [4766](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4766.py)   | A Simple Question of Chemistry | 2024-08-15      | Bronze 3             |
 | [5358](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5358.py)   | Football Team                  | 2024-08-21      | Bronze 4             |
+| [5565](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5565.py)   | レシート                       | 2024-09-25      | Bronze 3             |
 | [5597](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5597.py)   | 과제 안 내신 분..?             | 2024-08-12      | Bronze 3             |
 | [6131](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6131.py)   | Perfect Squares                | 2024-09-11      | Bronze 3             |
 | [6679](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6679.py)   | Specialized Four-Digit Numbers | 2024-09-06      | Bronze 2             |
@@ -102,6 +103,7 @@
 | [14209](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14209.py) | Bridž                          | 2024-08-18      | Bronze 3             |
 | [14681](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14681.py) | 사분면 고르기                  | 2024-08-12      | Bronze 5             |
 | [14924](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14924.py) | 폰 노이만과 파리               | 2024-09-18      | Bronze 4             |
+| [14928](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14928.py) | 큰 수 (BIG)                    | 2024-09-25      | Bronze 5             |
 | [15232](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15232.py) | Rectangles                     | 2024-08-15      | Bronze 5             |
 | [15552](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15552.py) | 빠른 A+B                       | 2024-08-12      | Bronze 4             |
 | [15733](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15733.py) | 나는 누구인가                  | 2024-08-31      | Bronze 5             |
@@ -125,6 +127,7 @@
 | [25495](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25495.py) | 에어팟                         | 2024-09-19      | Bronze 2             |
 | [25629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25629.py) | 홀짝 수열                      | 2024-09-06      | Bronze 3             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
+| [26307](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26307.py) | Correct                        | 2024-09-25      | Bronze 5             |
 | [26546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26546.py) | Reverse                        | 2024-09-11      | Bronze 4             |
 | [27389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27389.py) | Metronome                      | 2024-09-04      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열                  | 2024-08-11      | Bronze 5             |
