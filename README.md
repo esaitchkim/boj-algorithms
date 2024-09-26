@@ -112,6 +112,7 @@
 | [15829](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15829.py) | Hashing                        | 2024-08-11      | Bronze 2             |
 | [15962](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15962.py) | 새로운 시작                    | 2024-09-11      | Bronze 5             |
 | [15964](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15964.py) | 이상한 기호                    | 2024-08-13      | Bronze 5             |
+| [16431](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16431.py) | 베시와 데이지                  | 2024-09-26      | Bronze 3             |
 | [16546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16546.py) | Missing Runners                | 2024-09-11      | Bronze 3             |
 | [16993](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16993.py) | Pizza Deal                     | 2024-09-04      | Bronze 4             |
 | [17010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17010.py) | Time to Decompress             | 2024-08-11      | Bronze 4             |
@@ -124,6 +125,7 @@
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
+| [25400](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25400.py) | 제자리                         | 2024-09-26      | Bronze 1             |
 | [25495](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25495.py) | 에어팟                         | 2024-09-19      | Bronze 2             |
 | [25629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25629.py) | 홀짝 수열                      | 2024-09-06      | Bronze 3             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
