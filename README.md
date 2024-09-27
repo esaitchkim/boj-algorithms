@@ -119,9 +119,11 @@
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
 | [17874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17874.py) | Piece of Cake!                 | 2024-09-18      | Bronze 4             |
+| [19843](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/9/19843.py) | 수면 패턴                      | 2024-09-27      | Bronze 1             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
 | [21612](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21612.py) | Boiling Water                  | 2024-09-18      | Bronze 4             |
+| [21965](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21965.py) | 드높은 남산 위에 우뚝 선       | 2024-09-27      | Bronze 1             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
@@ -186,6 +188,7 @@
 | [1991](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1991.py)   | 트리 순회                   | 2024-08-30      | Silver 1             |
 | [2108](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2108.py)   | 통계학                      | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                       | 2024-08-14      | Silver 4             |
+| [2238](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2238.py)   | 경매                        | 2024-09-27      | Silver 5             |
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                       | 2024-08-15      | Silver 4             |
 | [2477](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2477.py)   | 참외밭                      | 2024-09-11      | Silver 2             |
 | [2579](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2579.py)   | 계단 오르기                 | 2024-08-19      | Silver 3             |
