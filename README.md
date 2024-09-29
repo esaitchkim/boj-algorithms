@@ -187,6 +187,7 @@
 | [1932](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1932.py)   | The Triangle                | 2024-08-29      | Silver 1             |
 | [1966](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1966.py)   | Printer Queue               | 2024-08-17      | Silver 3             |
 | [1991](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1991.py)   | 트리 순회                   | 2024-08-30      | Silver 1             |
+| [2057](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2057.py)   | 팩토리얼 분해               | 2024-09-29      | Silver 5             |
 | [2108](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2108.py)   | 통계학                      | 2024-08-17      | Silver 3             |
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                       | 2024-08-14      | Silver 4             |
 | [2238](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2238.py)   | 경매                        | 2024-09-27      | Silver 5             |
@@ -202,6 +203,7 @@
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World    | 2024-08-15      | Silver 4             |
 | [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers            | 2024-09-16      | Silver 2             |
 | [6186](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6186.py)   | Best Grass                  | 2024-09-22      | Silver 5             |
+| [6550](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6550.py)   | All in All                  | 2024-09-29      | Silver 5             |
 | [7568](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/7/7568.py)   | 덩치                        | 2024-08-14      | Silver 5             |
 | [9012](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9012.py)   | Parenthesis                 | 2024-08-16      | Silver 4             |
 | [9095](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9095.py)   | Adding 1s, 2s, and 3s       | 2024-08-19      | Silver 3             |
@@ -216,6 +218,7 @@
 | [10845](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10845.py) | 큐                          | 2024-08-16      | Silver 4             |
 | [11047](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11047.py) | 동전 0                      | 2024-08-18      | Silver 4             |
 | [11053](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11053.py) | 가장 긴 증가하는 부분 수열  | 2024-08-23      | Silver 2             |
+| [11256](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11256.py) | Jelly Bean                  | 2024-09-29      | Silver 2             |
 | [11399](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11399.py) | ATM                         | 2024-08-18      | Silver 4             |
 | [11650](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11650.py) | 좌표 정렬하기               | 2024-08-14      | Silver 5             |
 | [11651](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11651.py) | 좌표 정렬하기 2             | 2024-08-14      | Silver 5             |
