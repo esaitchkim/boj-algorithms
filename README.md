@@ -213,6 +213,7 @@
 | [9465](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9465.py)   | Stickers                    | 2024-09-02      | Silver 1             |
 | [10773](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10773.py) | Zero That Out               | 2024-08-16      | Silver 4             |
 | [10814](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10814.py) | 나이순 정렬                 | 2024-08-14      | Silver 5             |
+| [10815](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10815.py) | 숫자 카드                   | 2024-09-30      | Silver 5             |
 | [10816](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10816.py) | 숫자 카드 2                 | 2024-08-16      | Silver 4             |
 | [10828](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10828.py) | 스택                        | 2024-08-16      | Silver 4             |
 | [10845](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10845.py) | 큐                          | 2024-08-16      | Silver 4             |
