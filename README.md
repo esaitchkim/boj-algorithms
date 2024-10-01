@@ -217,6 +217,7 @@
 | [10816](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10816.py) | 숫자 카드 2                 | 2024-08-16      | Silver 4             |
 | [10828](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10828.py) | 스택                        | 2024-08-16      | Silver 4             |
 | [10845](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10845.py) | 큐                          | 2024-08-16      | Silver 4             |
+| [10866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10866.py) | 덱                          | 2024-10-01      | Silver 4             |
 | [11047](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11047.py) | 동전 0                      | 2024-08-18      | Silver 4             |
 | [11053](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11053.py) | 가장 긴 증가하는 부분 수열  | 2024-08-23      | Silver 2             |
 | [11256](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11256.py) | Jelly Bean                  | 2024-09-29      | Silver 2             |
