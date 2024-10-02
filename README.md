@@ -101,6 +101,7 @@
 | [13227](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13227.py) | 큰 수 곱셈                     | 2024-08-21      | Bronze 5             |
 | [14038](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14038.py) | Tournament Selection           | 2024-08-15      | Bronze 4             |
 | [14209](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14209.py) | Bridž                          | 2024-08-18      | Bronze 3             |
+| [14652](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14652.py) | 나는 행복합니다~               | 2024-10-02      | Bronze 4             |
 | [14681](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14681.py) | 사분면 고르기                  | 2024-08-12      | Bronze 5             |
 | [14924](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14924.py) | 폰 노이만과 파리               | 2024-09-18      | Bronze 4             |
 | [14928](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14928.py) | 큰 수 (BIG)                    | 2024-09-25      | Bronze 5             |
