@@ -124,6 +124,7 @@
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
 | [21612](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21612.py) | Boiling Water                  | 2024-09-18      | Bronze 4             |
+| [21638](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21638.py) | SMS from MCHS                  | 2024-10-03      | Bronze 4             |
 | [21965](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21965.py) | 드높은 남산 위에 우뚝 선       | 2024-09-27      | Bronze 1             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
@@ -248,6 +249,7 @@
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                | 2024-08-20      | Silver 3             |
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
 | [18221](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18221.py) | 교수님 저는 취업할래요      | 2024-09-17      | Silver 5             |
+| [18258](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18258.py) | 큐 2                        | 2024-10-03      | Silver 4             |
 | [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
 | [26876](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26876.py) | New Time                    | 2024-09-21      | Silver 5             |
 
