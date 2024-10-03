@@ -17,6 +17,7 @@
 | [1000](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1000.py)   | A+B                            | 2024-08-10      | Bronze 5             |
 | [1001](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1001.py)   | A-B                            | 2024-08-10      | Bronze 5             |
 | [1008](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1008.py)   | A/B                            | 2024-08-10      | Bronze 5             |
+| [1076](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1076.py)   | 저항                           | 2024-10-04      | Bronze 2             |
 | [1085](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1085.py)   | 직사각형에서 탈출              | 2024-09-11      | Bronze 3             |
 | [1152](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1152.py)   | 단어의 개수                    | 2024-08-10      | Bronze 2             |
 | [1259](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1259.py)   | 팰린드롬수                     | 2024-08-11      | Bronze 1             |
