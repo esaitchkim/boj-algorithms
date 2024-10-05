@@ -24,6 +24,7 @@
 | [1330](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1330.py)   | 두 수 비교하기                 | 2024-08-10      | Bronze 5             |
 | [1371](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1371.py)   | 가장 많은 글자                 | 2024-08-21      | Bronze 2             |
 | [1546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1546.py)   | 평균                           | 2024-08-13      | Bronze 1             |
+| [1834](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1834.py)   | 나머지와 몫이 같은 수          | 2024-10-05      | Bronze 1             |
 | [1934](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1934.py)   | 최소공배수                     | 2024-09-12      | Bronze 1             |
 | [1978](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1978.py)   | 소수 찾기                      | 2024-08-11      | Bronze 2             |
 | [2010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2010.py)   | Electrical Outlets             | 2024-09-11      | Bronze 3             |
