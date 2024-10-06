@@ -142,6 +142,7 @@
 | [28097](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28097.py) | 모범생 포닉스                  | 2024-08-21      | Bronze 4             |
 | [28113](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28113.py) | 정보섬의 대중교통              | 2024-08-15      | Bronze 5             |
 | [28702](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28702.py) | FizzBuzz                       | 2024-08-14      | Bronze 1             |
+| [29732](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/9/29732.py) | Rick-Roll Virus                | 2024-10-06      | Bronze 1             |
 | [29863](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/9/29863.py) | Arno's Sleep Schedule          | 2024-08-21      | Bronze 5             |
 | [30030](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30030.py) | 스위트콘 가격 구하기           | 2024-08-11      | Bronze 5             |
 | [30031](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/3/0/30031.py) | 지폐 세기                      | 2024-09-05      | Bronze 4             |
