@@ -254,6 +254,7 @@
 | [18110](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18110.py) | solved.ac                   | 2024-08-17      | Silver 4             |
 | [18221](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18221.py) | 교수님 저는 취업할래요      | 2024-09-17      | Silver 5             |
 | [18258](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/8/18258.py) | 큐 2                        | 2024-10-03      | Silver 4             |
+| [20363](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20363.py) | 당근 키우기                 | 2024-10-08      | Silver 4             |
 | [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
 | [26876](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26876.py) | New Time                    | 2024-09-21      | Silver 5             |
 
