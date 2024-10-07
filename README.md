@@ -100,6 +100,7 @@
 | [11718](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11718.py) | 그대로 출력하기                | 2024-08-13      | Bronze 3             |
 | [11720](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11720.py) | 숫자의 합                      | 2024-08-11      | Bronze 4             |
 | [11942](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/1/11942.py) | 고려대는 사랑입니다            | 2024-08-11      | Bronze 5             |
+| [13155](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13155.py) | Common Knowledge               | 2024-10-07      | Bronze 1             |
 | [13227](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/3/13227.py) | 큰 수 곱셈                     | 2024-08-21      | Bronze 5             |
 | [14038](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14038.py) | Tournament Selection           | 2024-08-15      | Bronze 4             |
 | [14209](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14209.py) | Bridž                          | 2024-08-18      | Bronze 3             |
