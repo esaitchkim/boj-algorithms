@@ -108,6 +108,7 @@
 | [14681](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14681.py) | 사분면 고르기                  | 2024-08-12      | Bronze 5             |
 | [14924](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14924.py) | 폰 노이만과 파리               | 2024-09-18      | Bronze 4             |
 | [14928](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14928.py) | 큰 수 (BIG)                    | 2024-09-25      | Bronze 5             |
+| [14954](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/4/14954.py) | Happy Number                   | 2024-10-09      | Bronze 2             |
 | [15232](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15232.py) | Rectangles                     | 2024-08-15      | Bronze 5             |
 | [15552](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15552.py) | 빠른 A+B                       | 2024-08-12      | Bronze 4             |
 | [15733](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15733.py) | 나는 누구인가                  | 2024-08-31      | Bronze 5             |
@@ -120,6 +121,7 @@
 | [16546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16546.py) | Missing Runners                | 2024-09-11      | Bronze 3             |
 | [16993](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16993.py) | Pizza Deal                     | 2024-09-04      | Bronze 4             |
 | [17010](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17010.py) | Time to Decompress             | 2024-08-11      | Bronze 4             |
+| [17042](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17042.py) | Elder                          | 2024-10-09      | Bronze 3             |
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
 | [17874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17874.py) | Piece of Cake!                 | 2024-09-18      | Bronze 4             |
