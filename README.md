@@ -142,6 +142,7 @@
 | [26546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26546.py) | Reverse                        | 2024-09-11      | Bronze 4             |
 | [27389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27389.py) | Metronome                      | 2024-09-04      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열                  | 2024-08-11      | Bronze 5             |
+| [27982](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27982.py) | 큐브 더미                      | 2024-10-10      | Bronze 2             |
 | [28097](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28097.py) | 모범생 포닉스                  | 2024-08-21      | Bronze 4             |
 | [28113](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28113.py) | 정보섬의 대중교통              | 2024-08-15      | Bronze 5             |
 | [28702](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28702.py) | FizzBuzz                       | 2024-08-14      | Bronze 1             |
