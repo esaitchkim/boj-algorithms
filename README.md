@@ -59,6 +59,7 @@
 | [3052](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3052.py)   | 나머지                         | 2024-08-10      | Bronze 2             |
 | [4101](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4101.py)   | Which is Greater?              | 2024-09-04      | Bronze 5             |
 | [4153](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4153.py)   | 직각삼각형                     | 2024-08-11      | Bronze 3             |
+| [4344](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4344.py)   | Above Average                  | 2024-10-11      | Bronze 1             |
 | [4470](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4470.py)   | Number the lines               | 2024-08-21      | Bronze 4             |
 | [4766](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4766.py)   | A Simple Question of Chemistry | 2024-08-15      | Bronze 3             |
 | [5358](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/5/5358.py)   | Football Team                  | 2024-08-21      | Bronze 4             |
