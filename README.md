@@ -126,6 +126,7 @@
 | [17094](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17094.py) | Serious Problem                | 2024-08-21      | Bronze 3             |
 | [17356](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17356.py) | 욱 제                          | 2024-09-01      | Bronze 4             |
 | [17874](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17874.py) | Piece of Cake!                 | 2024-09-18      | Bronze 4             |
+| [18786](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/18786.py) | Triangles (Bronze)             | 2024-19-12      | Bronze 1             |
 | [19843](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/9/19843.py) | 수면 패턴                      | 2024-09-27      | Bronze 1             |
 | [20492](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20492.py) | 세금                           | 2024-08-15      | Bronze 5             |
 | [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
