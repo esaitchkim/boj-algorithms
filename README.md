@@ -262,6 +262,7 @@
 | [20363](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/0/20363.py) | 당근 키우기                 | 2024-10-08      | Silver 4             |
 | [26169](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26169.py) | 세 번 이내에 사과를 먹자    | 2024-09-15      | Silver 3             |
 | [26876](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26876.py) | New Time                    | 2024-09-21      | Silver 5             |
+| [28692](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/8/28692.py) | 선형 회귀는 너무 쉬워 2     | 2024-10-13      | Silver 5             |
 
 </details>
 
