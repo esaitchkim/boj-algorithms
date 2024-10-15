@@ -203,6 +203,7 @@
 | [2164](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2164.py)   | 카드2                          | 2024-08-14      | Silver 4             |
 | [2238](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2238.py)   | 경매                           | 2024-09-27      | Silver 5             |
 | [2389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2389.py)   | ŠEĆER                          | 2024-08-15      | Silver 4             |
+| [2428](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2428.py)   | Plagiarism                     | 2024-10-15      | Silver 3             |
 | [2477](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2477.py)   | 참외밭                         | 2024-09-11      | Silver 2             |
 | [2579](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2579.py)   | 계단 오르기                    | 2024-08-19      | Silver 3             |
 | [2606](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2606.py)   | 바이러스                       | 2024-08-19      | Silver 3             |
