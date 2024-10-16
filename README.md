@@ -134,6 +134,7 @@
 | [21638](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21638.py) | SMS from MCHS                  | 2024-10-03      | Bronze 4             |
 | [21965](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21965.py) | 드높은 남산 위에 우뚝 선       | 2024-09-27      | Bronze 1             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
+| [23971](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/3/23971.py) | ZOAC 4                         | 2024-10-16      | Bronze 3             |
 | [25083](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25083.py) | 새싹                           | 2024-08-11      | Bronze 5             |
 | [25304](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25304.py) | 영수증                         | 2024-08-31      | Bronze 4             |
 | [25400](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25400.py) | 제자리                         | 2024-09-26      | Bronze 1             |
