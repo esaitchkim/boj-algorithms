@@ -214,6 +214,7 @@
 | [2811](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2811.py)   | ZIMA                           | 2024-10-18      | Silver 3             |
 | [3063](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3063.py)   | 게시판                         | 2024-09-18      | Silver 5             |
 | [3135](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3135.py)   | RADIO                          | 2024-09-28      | Silver 5             |
+| [3699](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3699.py)   | Tower Parking                  | 2024-10-19      | Silver 4             |
 | [4383](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4383.py)   | Jolly Jumpers                  | 2024-09-20      | Silver 5             |
 | [4949](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/4/4949.py)   | The Balance of the World       | 2024-08-15      | Silver 4             |
 | [6179](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/6/6179.py)   | Oh Those Rollers               | 2024-09-16      | Silver 2             |
