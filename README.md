@@ -227,6 +227,7 @@
 | [9375](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9375.py)   | Incognito                      | 2024-08-19      | Silver 3             |
 | [9461](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9461.py)   | Padovan Sequence               | 2024-08-19      | Silver 3             |
 | [9465](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9465.py)   | Stickers                       | 2024-09-02      | Silver 1             |
+| [9612](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/9/9612.py)   | Maximum Word Frequency         | 2024-10-20      | Silver 4             |
 | [10773](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10773.py) | Zero That Out                  | 2024-08-16      | Silver 4             |
 | [10814](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10814.py) | 나이순 정렬                    | 2024-08-14      | Silver 5             |
 | [10815](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/0/10815.py) | 숫자 카드                      | 2024-09-30      | Silver 5             |
