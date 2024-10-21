@@ -144,6 +144,7 @@
 | [26145](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26145.py) | 출제비 재분배                  | 2024-10-17      | Bronze 3             |
 | [26307](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26307.py) | Correct                        | 2024-09-25      | Bronze 5             |
 | [26546](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26546.py) | Reverse                        | 2024-09-11      | Bronze 4             |
+| [26550](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26550.py) | Ornaments                      | 2024-10-21      | Bronze 3             |
 | [27389](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27389.py) | Metronome                      | 2024-09-04      | Bronze 5             |
 | [27866](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27866.py) | 문자와 문자열                  | 2024-08-11      | Bronze 5             |
 | [27982](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/7/27982.py) | 큐브 더미                      | 2024-10-10      | Bronze 2             |
