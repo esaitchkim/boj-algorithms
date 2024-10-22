@@ -132,6 +132,7 @@
 | [21300](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21300.py) | Bottle Return                  | 2024-09-12      | Bronze 5             |
 | [21612](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21612.py) | Boiling Water                  | 2024-09-18      | Bronze 4             |
 | [21638](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21638.py) | SMS from MCHS                  | 2024-10-03      | Bronze 4             |
+| [21760](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21760.py) | 야구 시즌                      | 2024-10-22      | Bronze 5             |
 | [21965](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/1/21965.py) | 드높은 남산 위에 우뚝 선       | 2024-09-27      | Bronze 1             |
 | [22193](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/2/22193.py) | Multiply                       | 2024-09-04      | Bronze 5             |
 | [23971](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/3/23971.py) | ZOAC 4                         | 2024-10-16      | Bronze 3             |
