@@ -262,6 +262,7 @@
 | [15904](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/5/15904.py) | UCPC는 무엇의 약자일까?        | 2024-09-24      | Silver 5             |
 | [16435](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16435.py) | 스네이크버드                   | 2024-09-23      | Silver 5             |
 | [16953](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/6/16953.py) | A → B                          | 2024-08-26      | Silver 2             |
+| [17087](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17087.py) | 숨바꼭질 6                     | 2024-10-23      | Silver 2             |
 | [17219](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17219.py) | 비밀번호 찾기                  | 2024-08-19      | Silver 4             |
 | [17286](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17286.py) | 유미                           | 2024-09-18      | Silver 5             |
 | [17626](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/1/7/17626.py) | Four Squares                   | 2024-08-20      | Silver 3             |
