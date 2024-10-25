@@ -254,6 +254,7 @@
 
 | **No**                                                                               | **Problem**     | **Solved Date** | **Difficulty level** |
 | :----------------------------------------------------------------------------------- | :-------------- | :-------------- | :------------------- |
+| [1806](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1806.py)   | Subsequence     | 2024-10-25      | Gold 4               |
 | [1916](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/1/1916.py)   | 최소비용 구하기 | 2024-09-02      | Gold 5               |
 | [2096](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2096.py)   | 내려가기        | 2024-09-02      | Gold 5               |
 | [2166](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2166.py)   | 다각형의 면적   | 2024-09-08      | Gold 5               |
