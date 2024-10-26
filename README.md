@@ -141,6 +141,7 @@
 | [25400](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25400.py) | 제자리                         | 2024-09-26      | Bronze 1             |
 | [25495](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25495.py) | 에어팟                         | 2024-09-19      | Bronze 2             |
 | [25629](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25629.py) | 홀짝 수열                      | 2024-09-06      | Bronze 3             |
+| [25985](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/5/25985.py) | Fastestest Function            | 2024-10-26      | Bronze 2             |
 | [26082](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26082.py) | WARBOY                         | 2024-08-11      | Bronze 5             |
 | [26145](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26145.py) | 출제비 재분배                  | 2024-10-17      | Bronze 3             |
 | [26307](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/2/6/26307.py) | Correct                        | 2024-09-25      | Bronze 5             |
