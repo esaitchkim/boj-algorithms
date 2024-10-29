@@ -216,6 +216,7 @@
 | [2630](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2630.py)   | 색종이 만들기                  | 2024-09-07      | Silver 2             |
 | [2751](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2751.py)   | 수 정렬하기 2                  | 2024-08-14      | Silver 5             |
 | [2811](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2811.py)   | ZIMA                           | 2024-10-18      | Silver 3             |
+| [2822](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/2/2822.py)   | NAJBOLJIH 5                    | 2024-10-29      | Silver 5             |
 | [3063](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3063.py)   | 게시판                         | 2024-09-18      | Silver 5             |
 | [3135](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3135.py)   | RADIO                          | 2024-09-28      | Silver 5             |
 | [3699](https://github.com/esaitchkim/boj-algorithms/blob/main/python3/0/3/3699.py)   | Tower Parking                  | 2024-10-19      | Silver 4             |
